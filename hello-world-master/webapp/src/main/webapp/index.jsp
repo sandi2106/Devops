@@ -1,4 +1,4 @@
-<!-- New code for testing the trigger -->
+<!-- New code for testing the trigger option in jenkins -->
 <!DOCTYPE html>
 <html>
   <!--Tab name--><head>
